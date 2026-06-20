@@ -33,7 +33,7 @@
 10. [How to Run](#-how-to-run)
 11. [Repository Structure](#-repository-structure)
 12. [Limitations & Future Work](#-limitations--future-work)
-13. [References](#-references)
+
 
 ---
 
@@ -272,16 +272,3 @@ Execute cells in order. Charts will be saved to `charts/`, and clustering result
 
 ---
 
-## 📚 References
-
-- [1] MacQueen, J. (1967). *Some methods for classification and analysis of multivariate observations*. Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability.
-- [2] Ward Jr, J. H. (1963). *Hierarchical grouping to optimize an objective function*. Journal of the American Statistical Association.
-- [3] Ester, M., et al. (1996). *A density-based algorithm for discovering clusters in large spatial databases with noise*. KDD.
-- [4] Rousseeuw, P. J. (1987). *Silhouettes: a graphical aid to the interpretation and validation of cluster analysis*. Journal of Computational and Applied Mathematics.
-- [5] Davies, D. L., & Bouldin, D. W. (1979). *A cluster separation measure*. IEEE TPAMI.
-
----
-
-<p align="center">
-  <i>Credit Card Customer Segmentation · Made with Python & Scikit-Learn</i>
-</p>
