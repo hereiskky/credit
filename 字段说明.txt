@@ -1,0 +1,18 @@
+CUST_ID：信用卡持卡人编号（分类标识）
+BALANCE：账户内可用于消费的余额
+BALANCE_FREQUENCY：账户余额更新频次，取值 0~1（1 = 更新频繁，0 = 更新极少）
+PURCHASES：账户累计消费总金额
+ONEOFF_PURCHASES：单笔一次性消费最高金额
+INSTALLMENTS_PURCHASES：分期消费总金额
+CASH_ADVANCE：用户预借现金总额
+PURCHASES_FREQUENCY：整体消费频次，取值 0~1（1 = 消费频繁，0 = 极少消费）
+ONEOFFPURCHASESFREQUENCY：一次性大额消费的发生频次（1 = 频繁，0 = 很少）
+PURCHASESINSTALLMENTSFREQUENCY：分期购物发生频次（1 = 频繁，0 = 很少）
+CASHADVANCEFREQUENCY：预借现金操作频次
+CASHADVANCETRX：预借现金的交易笔数
+PURCHASES_TRX：消费交易总笔数
+CREDIT_LIMIT：用户信用卡授信额度
+PAYMENTS：用户累计还款总金额
+MINIMUM_PAYMENTS：每期最低还款金额
+PRCFULLPAYMENT：全额还款的占比
+TENURE：用户持有该信用卡的服务时长
