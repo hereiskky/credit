@@ -41,7 +41,12 @@
 
 This **credit card customer segmentation** project applies unsupervised clustering techniques to a real-world financial dataset containing **8,950 customers** and **18 behavioral features**. The goal is to identify distinct customer groups based on their spending habits, payment behavior, and credit usage, enabling **targeted marketing** and **risk management strategies** in the retail banking scene.
 
+## Dataset Source
 **Dataset**: [Kaggle - Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
+- Author: Arjun Bhasin
+- License: CC0: Public Domain
+- File: `CC GENERAL.csv`
+- Description: Contains 6-month consumption behavior records of nearly 9000 credit card users with 18 behavioral features for customer segmentation clustering experiments.
 
 ---
 
